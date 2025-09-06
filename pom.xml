@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Harshit web app</finalName>
+		<finalName>Harshit-web-app</finalName>
 		
 		<plugins>
 			<plugin>
