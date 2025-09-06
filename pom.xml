@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.109.184.165:9000/</sonar.host.url>
+		<sonar.host.url>http://65.1.2.173:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Harshithsai@138</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name> Releases Nexus Repository</name>
-	      <url>http://52.66.66.20:8081/repository/release_22/</url>
+	      <url>http://13.233.183.66:8081/repository/release_22/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
